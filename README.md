@@ -22,7 +22,7 @@ This training step is where calculus comes in.  By training a model, we move alo
 
 
 
-So training a model, and loss functions, and calculus, don't just come into play with regression lines.  Many algorithms in machine learning have a loss function, such that as we change the parameters of a model, the cost associated with that model changes.  Calculus can gives us an expectation as to how the cost associated with a model changes as we update that model.  In general, calculus can tell us *the rate of change*, and if we know how our cost function is changing, we can use this knowledge about how our loss changes as we change a parameter, to tell us how to change a parameter next.
+So training a model, and loss function, and calculus, don't just come into play with regression lines.  Many algorithms in machine learning have a loss function, such that as we change the parameters of a model, the cost associated with that model changes.  Calculus can gives us an expectation as to how the cost associated with a model changes as we update that model.  In general, calculus can tell us *the rate of change*, and if we know how our cost function is changing, we can use this knowledge about how our loss changes as we change a parameter, to tell us how to change a parameter next.
 
 Already we have seen this by looking at the slope of the line to our cost function to see how to update our regression line.  That slope tells us how much our cost is changing as we change a single parameter of our model, and indicates how to change that parameter to improve our cost.
 
