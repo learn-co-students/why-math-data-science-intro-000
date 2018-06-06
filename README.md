@@ -35,8 +35,9 @@ So in summary:
 * However, there will be loss functions.  
 * And we will want adapt our model so that it begins to minimize the output from our loss function.  
 * That is training our model.  
-* And calculus can tell us how to update our machine learning model and the change in output that will occur as a result 
+* And calculus can tell us how to update our machine learning model and the change in output that will occur as a result
 
 So moving along that loss function to approach the minimum in a structured way requires math, and derivatives.  
 
 The sections that follow will take a deep dive into mathematics and that will underly our future machine learning techniques.  Taking this exploration will allow us to understand our current machine learning model of gradient descent, as well how we can train other machine learning models in the future.
+//
